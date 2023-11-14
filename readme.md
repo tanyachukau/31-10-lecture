@@ -51,4 +51,4 @@ Here is the code that we have for footer:
             <p>Address: 0 Street, Country</p>
         </div>
     </footer>
-```
+```# 31-10-lecture
